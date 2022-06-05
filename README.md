@@ -1,7 +1,5 @@
 # rickandmorty
 
-https://www.fernandotaladriz.com/curso_frontend/rickandmorty
-
 sample page Vue API fetch
 
 ## Project setup
