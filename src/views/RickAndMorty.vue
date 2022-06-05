@@ -1,7 +1,7 @@
 <template>
   <div class="rickandmorty min-vh-100 p-5 text-center">
     <div class="d-inline-flex text-center p-3">
-      <h1 class="text-center text-light">Rick and Morty</h1>
+      <h1 class="text-center text-success">Rick and Morty</h1>
     </div>
     <Character :data="listaPersonajes"/>
   </div>
